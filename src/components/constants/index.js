@@ -1,0 +1,1 @@
+export const BASE_URL_BACKEND = 'https://guided-bed-production.up.railway.app'
